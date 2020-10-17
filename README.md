@@ -1,12 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and you can use all corresponding commands.
-
 # Eliza the automated therapist
 
-This project was inspired on Weizenbaum's design of the [AI based Rogerian Therapist](https://en.wikipedia.org/wiki/ELIZA). It was improved on the earlier implementation of Michal Wallace and George Dunlop. This version offers a modern React interface for the conversation. Some of the conversational elements were stripped to make it state-independent. Feel free to copy and/or improve the project.
-
-As the project was based on a React project, it can be managed with the same commands.
+This project was inspired on Weizenbaum's design of the [AI based Rogerian Therapist](https://en.wikipedia.org/wiki/ELIZA). It was improved on the earlier implementation of Michal Wallace and George Dunlop. This version offers a modern React interface for the conversation. Some of the conversational elements were stripped to make it state-independent. Feel free to copy and/or improve the project. For good conduct, please include the copyright notices or mention the source on public use when you do so.
 
 ## Available Scripts
+
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app) and you can use all corresponding commands.
 
 In the project directory, you can run:
 
